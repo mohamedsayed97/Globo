@@ -1,0 +1,9 @@
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.deps.json
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.pdb

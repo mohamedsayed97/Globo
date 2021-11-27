@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UZOr9q2BrIj1Js78nLAAU7dgW+9vKKLxk72MY70piSKOFtEpOBkXEyqMm2+rUNGmBP8heGrFUj6t1v8TUPIOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ma7md\\OneDrive\\Desktop\\asp net core architecture assets\\09\\demos\\end\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ma7md\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ma7md\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

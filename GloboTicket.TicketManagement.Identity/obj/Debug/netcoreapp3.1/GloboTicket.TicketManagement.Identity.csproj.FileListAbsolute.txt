@@ -1,0 +1,17 @@
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.deps.json
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.runtimeconfig.json
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.runtimeconfig.dev.json
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.dll
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.pdb
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.dll
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.dll
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.pdb
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.csproj.AssemblyReference.cache
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.AssemblyInfoInputs.cache
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.AssemblyInfo.cs
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.csproj.CoreCompileInputs.cache
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.csproj.CopyComplete
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.dll
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.pdb
+C:\Users\ma7md\OneDrive\Desktop\asp net core architecture assets\09\demos\end\GloboTicket.TicketManagement.Identity\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Identity.genruntimeconfig.cache
